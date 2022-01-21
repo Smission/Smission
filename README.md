@@ -15,6 +15,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Smission&count_private=true&show_icons=true&theme=synthwave" alt="Mandlenkosi's GitHub Stats" width="500px" height="300px" />
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smission&count_private=true&layout=compact)](https://github.com/smission/github-readme-stats) -->
+
 &nbsp;
 ## 👷🏻‍♂️ Tools and Technologies I Use
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
