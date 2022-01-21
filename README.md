@@ -1,13 +1,11 @@
-# Hello there, I am Mandlenkosi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave Animated" width="30px">
+# Hello there, my name is Mandlenkosi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave Animated" width="30px">
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MandlaShezi)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Smission)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mandlashezifbi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mandlenkosishezi/)
 
- <div style="display:flex;flex-direction:row;" align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=smission&count_private=true&show_icons=true&theme=radical" alt="smission's GitHub Stats" width="500px" height="300px" />
- </div>
+<img src="https://github-readme-stats.vercel.app/api?username=smission&count_private=true&show_icons=true&theme=synthwave" alt="Mandlenkosi's GitHub Stats" width="500px" height="300px" />
 
 &nbsp;
 ## 👷🏻‍♂️ Tools and Technologies I Use
