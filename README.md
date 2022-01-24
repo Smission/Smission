@@ -15,7 +15,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Smission&count_private=true&show_icons=true&theme=synthwave" alt="Mandlenkosi's GitHub Stats" width="500px" height="300px" />
 
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+START_SECTION:waka
+END_SECTION:waka
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smission&count_private=true&layout=compact)](https://github.com/smission/github-readme-stats) -->
 
