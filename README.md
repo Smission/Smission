@@ -13,7 +13,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mandlashezifbi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mandlenkosishezi/)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Smission&count_private=true&show_icons=true&theme=synthwave" alt="Mandlenkosi's GitHub Stats" width="500px" height="300px" />
+<img src="https://github-readme-stats.vercel.app/api?username=Smission&count_private=true&show_icons=true&theme=synthwave&hide=stars,issues,contribs,prs" alt="Mandlenkosi's GitHub Stats" width="500px" height="300px" />
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
