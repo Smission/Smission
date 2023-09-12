@@ -1,4 +1,4 @@
-# Hello there, my name is Mandlenkosi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave Animated" width="30px">
+# Oi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave Animated" width="30px">
 
 <!-- - 🤪 "Backend guy" who knows a thing or two about front-end stuff -->
 <!-- - 🎓 Might end up a scholar
@@ -23,7 +23,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smission&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  -->
 &nbsp;
-## 👷🏻‍♂️ Tools and Technologies I Use
+## 👷🏻‍♂️ Knows a thing or two about
 ![Golang](https://img.shields.io/badge/go-%230095D5.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
