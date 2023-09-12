@@ -1,14 +1,15 @@
 # Hello there, my name is Mandlenkosi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave Animated" width="30px">
 
 <!-- - 🤪 "Backend guy" who knows a thing or two about front-end stuff -->
-<!-- - 🎓 Might end up a scholar -->
+<!-- - 🎓 Might end up a scholar
 - 🔂 Continuous learning
 - 🎨 Somewhat creative
 - 📝 I write sometimes
 - 🎵 Music keeps me going
 - 📍 Johannesburg, South Africa
+ -->
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MandlaShezi)
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MandlaShezi) -->
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Smission)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mandlashezifbi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mandlenkosishezi/)
@@ -23,6 +24,7 @@
  -->
 &nbsp;
 ## 👷🏻‍♂️ Tools and Technologies I Use
+![Golang](https://img.shields.io/badge/go-%230095D5.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -37,8 +39,11 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<!--
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+ -->
 
+<!--
 <details>
   <summary>See More</summary>
 
@@ -50,6 +55,8 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
   
 </details>
+
+-->
   
 ---
   
